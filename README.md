@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-GRACE WAWERU - [Github](https://gracenjeri.gnw@gmail.com) / [Twitter](https://twitter.com/alexa_orrico)  
-CHRIS MOTARI - [Github](https://chrismotari@gmail.com) / [Twitter](https://twitter.com/earthtojhuang)
+GRACE WAWERU - [Github](https://gracenjeri.gnw@gmail.com) 
+CHRIS MOTARI - [Github](https://chrismotari@gmail.com) 
 
 Second part of Airbnb: Joann Vuong
 ## License
